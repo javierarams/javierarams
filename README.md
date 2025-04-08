@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Javi 👋
 
-<!--
-**javierarams/javierarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and Project Lead with 6 years of experience, currently based in Uruguay.  
+My specialty is building modern, scalable, and delightful frontend experiences using **ReactJS**, **TailwindCSS**, and friends — but I also get my hands dirty with **Node.js**, **Python**, and cloud stuff like **AWS CDK** and **Terraform**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Frontend**  
+`ReactJS` `Next.js` `TypeScript` `JavaScript` `TailwindCSS` `SCSS` and more...
+
+**Backend**  
+`Node.js` `Python` `Express` `REST APIs`
+
+**Cloud / DevOps**  
+`AWS (CDK)` `Terraform` 
+
+## 💬 Languages  
+- 🇪🇸 Spanish – Native  
+- 🇺🇸 English – Advanced
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/javierarams/](https://www.linkedin.com/in/javierarams/))
+
+---
