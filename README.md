@@ -24,6 +24,6 @@ My specialty is building modern, scalable, and delightful frontend experiences u
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/javierarams/](https://www.linkedin.com/in/javierarams/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/javierarams/)
 
 ---
